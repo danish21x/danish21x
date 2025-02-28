@@ -15,7 +15,11 @@ I thrive on **learning new things** and love being part of a collaborative and i
 - **Automation & Scraping:** Selenium, Scrapy, BeautifulSoup4
 - **Data Science & Analytics:** Pandas, NumPy, Matplotlib, scikit-learn
 - **Other Tools:** Git, Jira, Kibana, Logstash, Agile Methodology
+## 📌 Most Used Languages & Dynamic Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danish21x&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 

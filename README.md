@@ -16,6 +16,7 @@ I thrive on **learning new things** and love being part of a collaborative and i
 - **Data Science & Analytics:** Pandas, NumPy, Matplotlib, scikit-learn
 - **Other Tools:** Git, Jira, Kibana, Logstash, Agile Methodology
 ## 📌 Most Used Languages & Dynamic Stats
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=danish21x&layout=compact&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danish21x&layout=compact&theme=radical)
 

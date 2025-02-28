@@ -16,12 +16,6 @@ I thrive on **learning new things** and love being part of a collaborative and i
 - **Data Science & Analytics:** Pandas, NumPy, Matplotlib, scikit-learn
 - **Other Tools:** Git, Jira, Kibana, Logstash, Agile Methodology
 
-## 📊 Stats
-![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danishgd&show_icons=true&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danish21x&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 

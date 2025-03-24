@@ -9,7 +9,7 @@ I thrive on **learning new things** and love being part of a collaborative and i
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, Dart
-- **Frameworks:** Django, Flask, FastAPI, Frappe, Node.js, jQuery, Flutter
+- **Frameworks:** Django, Flask, FastAPI, Frappe, Node.js, jQuery, Flutter, Vuejs
 - **Databases:** MySQL, PostgreSQL, MongoDB, Elasticsearch
 - **DevOps & Cloud:** Docker, Linux Server Management, AWS
 - **Automation & Scraping:** Selenium, Scrapy, BeautifulSoup4

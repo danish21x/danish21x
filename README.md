@@ -59,6 +59,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="Danish's GitHub stats" height="200">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical&hide_border=true" alt="GitHub Streak" height="200">
+ 
+
 </div>
 
 ---
@@ -67,9 +69,9 @@
 
 <p align="center">
   🌐 <strong>Portfolio:</strong> <a href="https://danish-gd.me">danish-gd.me</a>  
-  <br>
+  |
   💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/danish21x">linkedin.com/in/danish21x</a>  
-  <br>
+  |
   📧 <strong>Email:</strong> danish21x@gmail.com
 </p>
 

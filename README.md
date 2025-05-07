@@ -7,7 +7,6 @@
   🚀 Python · JavaScript · Flutter · Frappe · ERPNext · Docker · PostgreSQL  
 </p>
 
----
 
 ## 🧠 About Me
 

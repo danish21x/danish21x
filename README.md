@@ -45,7 +45,7 @@
 - 🌐 **Portfolio:** [danish-gd.me](https://danish-gd.me)
 - 💼 **LinkedIn:** [linkedin.com/in/danish21x](https://linkedin.com/in/danish21x)
 - 📧 **Email:** danish21x@gmail.com
-- 📱 **Phone:** +971 52 669 6472
+
 
 ---
 

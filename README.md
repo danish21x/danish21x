@@ -31,12 +31,10 @@
 
 ## 📈 GitHub Stats
 
-<table border=0>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical" alt="Danish's GitHub stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical" alt="GitHub Streak" /></td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical" alt="Danish's GitHub stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical" alt="GitHub Streak" width="45%" />
+</div>
 
 ---
 

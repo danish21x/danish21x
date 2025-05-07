@@ -20,27 +20,58 @@
 
 ## 📊 Dashboard
 
-| 💻 Tech Stack            | 🧰 Tools & Platforms          | 🧪 Current Focus                  |
-|--------------------------|------------------------------|----------------------------------|
-| Python, JavaScript, Dart | Docker, GitHub, Postman      | ERPNext v15 Customization        |
-| Frappe, FastAPI, Django  | Render, AWS, Nginx           | Real Estate CRM SaaS (crm-01)    |
-| PostgreSQL, MongoDB      | Prometheus, Sentry, Grafana  | AI-based ERP Add-ons             |
-| Flutter, Tailwind, HTML5 | VS Code, Git, Ubuntu         | CI/CD + Monitoring Integrations  |
+<div align="center">
+  
+<table>
+  <tr>
+    <th>💻 Tech Stack</th>
+    <th>🧰 Tools & Platforms</th>
+    <th>🧪 Current Focus</th>
+  </tr>
+  <tr>
+    <td align="center">Python, JavaScript, Dart</td>
+    <td align="center">Docker, GitHub, Postman</td>
+    <td align="center">ERPNext v15 Customization</td>
+  </tr>
+  <tr>
+    <td align="center">Frappe, FastAPI, Django</td>
+    <td align="center">Render, AWS, Nginx</td>
+    <td align="center">Real Estate CRM SaaS (crm-01)</td>
+  </tr>
+  <tr>
+    <td align="center">PostgreSQL, MongoDB</td>
+    <td align="center">Prometheus, Sentry, Grafana</td>
+    <td align="center">AI-based ERP Add-ons</td>
+  </tr>
+  <tr>
+    <td align="center">Flutter, Tailwind, HTML5</td>
+    <td align="center">VS Code, Git, Ubuntu</td>
+    <td align="center">CI/CD + Monitoring Integrations</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical" alt="Danish's GitHub stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical" alt="GitHub Streak" width="45%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="Danish's GitHub stats" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical&hide_border=true" alt="GitHub Streak" height="200">
 </div>
 
 ---
 
 ## 📫 Let's Connect
 
-🌐 **Portfolio:** [danish-gd.me](https://danish-gd.me) | 💼 **LinkedIn:** [linkedin.com/in/danish21x](https://linkedin.com/in/danish21x) | 📧 **Email:** danish21x@gmail.com
+<p align="center">
+  🌐 <strong>Portfolio:</strong> <a href="https://danish-gd.me">danish-gd.me</a>  
+  <br>
+  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/danish21x">linkedin.com/in/danish21x</a>  
+  <br>
+  📧 <strong>Email:</strong> danish21x@gmail.com
+</p>
 
 ---
 

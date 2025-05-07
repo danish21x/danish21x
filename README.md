@@ -7,15 +7,12 @@
   🚀 Python · JavaScript · Flutter · Frappe · ERPNext · Docker · PostgreSQL  
 </p>
 
-
 ## 🧠 About Me
 
 - 🏢 ERP Techno-Functional Consultant based in Dubai
 - 💼 Specialize in ERPNext custom modules, scalable backend APIs, and mobile solutions
 - 📊 Passionate about solving business problems with clean code and automation
 - 🛠️ DevOps, Monitoring, and Performance Optimization
-
----
 
 ## 📊 Dashboard
 
@@ -51,18 +48,13 @@
 
 </div>
 
----
-
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="Danish's GitHub stats" height="200">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical&hide_border=true" alt="GitHub Streak" height="200">
- 
 
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak">
+</p>
 
 ## 📫 Let's Connect
 
@@ -73,7 +65,5 @@
   |
   📧 <strong>Email:</strong> danish21x@gmail.com
 </p>
-
----
 
 > *“Build systems that scale. Automate the boring. Design for clarity.”*

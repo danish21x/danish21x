@@ -49,18 +49,18 @@
 </div>
 
 ## 📈 GitHub Stats
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>📈 GitHub Stats</b></td>
-      <td align="center"><b>🔥 GitHub Streak</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats"></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak"></td>
-    </tr>
-  </table>
-</div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div>
+    <p align="center"><b>📈 GitHub Stats</b></p>
+    <img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats">
+  </div>
+
+  <div>
+    <p align="center"><b>🔥 GitHub Streak</b></p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak">
+  </div>
+
 
 ## 📫 Let's Connect
 

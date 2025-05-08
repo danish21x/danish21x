@@ -54,17 +54,20 @@
 </div>
 
 ## 📈 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <p align="center"><b>📈 GitHub Stats</b></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats" width="100%">
-  </div>
 
-  <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <p align="center"><b>🔥 GitHub Streak</b></p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak" width="100%">
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <p><b>📈 GitHub Stats</b></p>
+      <img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+    </td>
+    <td align="center">
+      <p><b>🔥 GitHub Streak</b></p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical&hide_border=true" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
+
 
  <div align="center">
     <p><b>🌟 GitHub Activity Graph</b></p>

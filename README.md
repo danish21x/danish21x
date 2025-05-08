@@ -54,22 +54,22 @@
 </div>
 
 ## 📈 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
     <p align="center"><b>📈 GitHub Stats</b></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats" width="100%">
   </div>
 
-  <div>
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
     <p align="center"><b>🔥 GitHub Streak</b></p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak" width="100%">
   </div>
+</div>
 
-  <div align="center">
+ <div align="center">
     <p><b>🌟 GitHub Activity Graph</b></p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish21x&theme=radical&hide_border=true" alt="GitHub Activity Graph">
   </div>
-</div>
 ## 📫 Let's Connect
 
 <p align="center">

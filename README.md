@@ -6,11 +6,12 @@
 <p align="center">
   🚀 Python · JavaScript · Flutter · Frappe · ERPNext · Docker · PostgreSQL  
 </p>
-
-## 🧠 About Me 
 <p align="center">
+ 
+##  🧠 About Me 
   <img src="https://komarev.com/ghpvc/?username=danish21x&color=blue&style=flat" alt="Profile Views">
 </p>
+
 
 
 - 🏢 ERP Techno-Functional Consultant based in Dubai

@@ -7,7 +7,11 @@
   🚀 Python · JavaScript · Flutter · Frappe · ERPNext · Docker · PostgreSQL  
 </p>
 
-## 🧠 About Me
+## 🧠 About Me 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danish21x&color=blue&style=flat" alt="Profile Views">
+</p>
+
 
 - 🏢 ERP Techno-Functional Consultant based in Dubai
 - 💼 Specialize in ERPNext custom modules, scalable backend APIs, and mobile solutions
@@ -65,10 +69,6 @@
   <p><b>🌟 GitHub Activity Graph</b></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish21x&theme=radical&hide_border=true" alt="GitHub Activity Graph">
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danish21x&color=blue&style=flat" alt="Profile Views">
-</p>
-
 ## 📫 Let's Connect
 
 <p align="center">

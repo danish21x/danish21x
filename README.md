@@ -61,6 +61,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak">
   </div>
 
+<div>
+  <p align="center"><b>💻 Most Used Languages</b></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish21x&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages">
+</div>
 
 ## 📫 Let's Connect
 

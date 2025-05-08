@@ -6,13 +6,13 @@
 <p align="center">
   🚀 Python · JavaScript · Flutter · Frappe · ERPNext · Docker · PostgreSQL  
 </p>
-<p align="center">
- 
+
 ##  🧠 About Me 
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=danish21x&color=blue&style=flat" alt="Profile Views">
 </p>
-
-
 
 - 🏢 ERP Techno-Functional Consultant based in Dubai
 - 💼 Specialize in ERPNext custom modules, scalable backend APIs, and mobile solutions
@@ -55,7 +55,6 @@
 
 ## 📈 GitHub Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
   <div>
     <p align="center"><b>📈 GitHub Stats</b></p>
     <img src="https://github-readme-stats.vercel.app/api?username=danish21x&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats">
@@ -66,9 +65,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish21x&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak">
   </div>
 
-<div align="center">
-  <p><b>🌟 GitHub Activity Graph</b></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish21x&theme=radical&hide_border=true" alt="GitHub Activity Graph">
+  <div align="center">
+    <p><b>🌟 GitHub Activity Graph</b></p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish21x&theme=radical&hide_border=true" alt="GitHub Activity Graph">
+  </div>
 </div>
 ## 📫 Let's Connect
 

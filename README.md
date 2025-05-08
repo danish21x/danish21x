@@ -66,6 +66,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish21x&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages">
 </div>
 
+
+<div align="center">
+  <p><b>🏆 GitHub Trophies</b></p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish21x&layout=compact&theme=radical&hide_border=true&card_width=400&count_private=true" alt="Most Used Languages">
+
+</div>
+
+<div align="center">
+  <p><b>🌟 GitHub Activity Graph</b></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish21x&theme=radical&hide_border=true" alt="GitHub Activity Graph">
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danish21x&color=blue&style=flat" alt="Profile Views">
+</p>
+
 ## 📫 Let's Connect
 
 <p align="center">

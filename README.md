@@ -53,7 +53,7 @@
   <tr>
     <td align="center">Frappe, FastAPI, Django</td>
     <td align="center">Render, AWS, Nginx</td>
-    <td align="center">Real Estate CRM SaaS (crm-01)</td>
+    <td align="center">Real Estate CRM SaaS</td>
   </tr>
   <tr>
     <td align="center">PostgreSQL, MongoDB</td>
